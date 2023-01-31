@@ -1,5 +1,5 @@
 # Review-Classification-using-SVC
-Implementation of NLP on Restaurant reviews using support vector classification and principal component analysis.
+Implementation of NLP on Restaurant reviews using support vector classification and principle component analysis.
 
 Overview:
   >The code uses Support vector classifier (SVC) from the svm class of sklearn. 
